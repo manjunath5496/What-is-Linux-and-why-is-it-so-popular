@@ -102,9 +102,15 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(78).pdf" style="text-decoration:none;">Securing Step by Step Linux </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(79).pdf" style="text-decoration:none;">Linux Smart Homes for Dummies</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(80).pdf" style="text-decoration:none;">Advanced Linux 3D Graphics Programming </a></b></li>
-
- 
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(74).pdf" style="text-decoration:none;">Learning the vi and Vim Editors</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(81).pdf" style="text-decoration:none;">Automating Linux and Unix System Administration</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(82).pdf" style="text-decoration:none;">Harley Hahn's Guide to Unix and Linux  </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(83).pdf" style="text-decoration:none;">Installing and Administering Linux </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(84).pdf" style="text-decoration:none;">Linux for Embedded and Real-Time Applications</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(85).pdf" style="text-decoration:none;">Linux Timesaving Techniques For Dummies </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(86).pdf" style="text-decoration:none;">LPI Linux Certification in a Nutshell</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(87).pdf" style="text-decoration:none;">Red Hat Linux 9 For Dummies </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(88).pdf" style="text-decoration:none;">Wicked Cool Shell Scripts, 2nd Edition: 101 Scripts for Linux, OS X, and UNIX Systems </a></b></li>
  
  
  
