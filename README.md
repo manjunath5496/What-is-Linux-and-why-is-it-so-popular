@@ -7,7 +7,7 @@
 <p><strong>Why LINUX?</strong></p>
 <p><strong>________________________________________________________________________________________________________________</strong></p>
 <p>Although&nbsp;<strong>Microsoft Windows</strong>&nbsp;(which is the most likely the victim of viruses and malware) has made great improvements in reliability in recent years, it considered less reliable than Linux. Linux is&nbsp;<strong>notoriously reliable</strong>&nbsp;and secure and it is free from constant battling&nbsp;<a href="https://en.wikipedia.org/wiki/Computer_virus" target="_blank" rel="nofollow noopener">virus</a>es and&nbsp;<strong>malware</strong>&nbsp;(which may affect your&nbsp;<strong>desktops</strong>,&nbsp;<strong>laptops</strong>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Server_(computing)" target="_blank" rel="nofollow noopener">server</a>s by corrupting files, causing slow downs, crashes, costly repairs and taking over basic functions of your operating system) &ndash; and it keep yourself free from licensing fees i.e., zero cost of entry ... as in free. You can install Linux on as many reliable computer&nbsp;<strong>ecosystems&nbsp;</strong>on the planet as you like without paying a cent for software or server licensing. While Microsoft Windows usually costs between&nbsp;<strong>$99.00</strong>&nbsp;and&nbsp;<strong>$199.00&nbsp;</strong><a href="https://en.wikipedia.org/wiki/United_States_dollar" target="_blank" rel="nofollow noopener"><strong>USD</strong></a>&nbsp;for each licensed copy and fear of losing data.</p>
-<p><strong>Below are some examples of where Linux being used today :</strong></p>
+<p><strong>Below are some examples of where Linux is being used today :</strong></p>
 <ul>
 <li>Android phones and tablets</li>
 <li>Servers</li>
