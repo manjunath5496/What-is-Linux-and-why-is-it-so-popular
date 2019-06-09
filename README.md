@@ -39,9 +39,18 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(30).pdf" style="text-decoration:none;">Learning RHEL Networking: Gain Linux administration skills by learning new networking concepts in Red Hat Enterprise Linux 7</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(31).pdf" style="text-decoration:none;">Linux Bootcamp: Learn the Basics of Linux in 2 Weeks</a></b></li>   
   
- 
- 
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(15).pdf" style="text-decoration:none;">Virtualization of Linux based computers: the Linux-VServer project</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(32).pdf" style="text-decoration:none;">Linux From Scratch</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(33).pdf" style="text-decoration:none;">Pro Linux Embedded Systems</a></b></li>   
+   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(34).pdf" style="text-decoration:none;">Linux Shell Scripting Cookbook</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(35).pdf" style="text-decoration:none;">Linux Shell Scripting Tutorial</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(36).pdf" style="text-decoration:none;">Mastering Linux Shell Scripting</a></b></li>   
+    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(37).pdf" style="text-decoration:none;">Securing and Optimizing Linux: RedHat Edition</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(38).pdf" style="text-decoration:none;">Linux System Administration and Support</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(39).pdf" style="text-decoration:none;">Arch Linux Handbook </a></b></li>   
+     
  
  
  
