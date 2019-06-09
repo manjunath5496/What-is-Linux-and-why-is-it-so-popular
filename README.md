@@ -51,9 +51,21 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(38).pdf" style="text-decoration:none;">Linux System Administration and Support</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(39).pdf" style="text-decoration:none;">Arch Linux Handbook </a></b></li>   
      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(40).pdf" style="text-decoration:none;">Linux Administrator Street Smarts: A Real World Guide to Linux Certification Skills</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(41).pdf" style="text-decoration:none;">Linux Appliance Design: A Hands-on Guide to Building Linux Appliances</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(42).pdf" style="text-decoration:none;">Red Hat Enterprise Linux 5: Tuning and Optimizing Red Hat Enterprise Linux for Oracle 9i and 10g Databases</a></b></li>   
+    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(43).pdf" style="text-decoration:none;">Linux Handbook: A Guide to IBM Linux Solutions and Resources</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(44).pdf" style="text-decoration:none;">Understanding Linux Network Internals</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(45).pdf" style="text-decoration:none;">Linux Wireless </a></b></li>  
  
- 
- 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(47).pdf" style="text-decoration:none;">Linux Malware Incident Response: A Practitioner's Guide to Forensic Collection and Examination of Volatile Data</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(48).pdf" style="text-decoration:none;">Linux Sendmail Administration</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(49).pdf" style="text-decoration:none;">Linux System Administration Recipes: A Problem-Solution Approach</a></b></li>   
+    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(50).rar" style="text-decoration:none;">Mastering Embedded Linux Programming</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(51).pdf" style="text-decoration:none;">Mastering Kali Linux for Web Penetration Testing</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(52).pdf" style="text-decoration:none;">Linux Apache Web Server Administration </a></b></li>  
                                 
                                 
 </ul>
