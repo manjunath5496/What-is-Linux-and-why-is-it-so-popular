@@ -67,5 +67,31 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(51).pdf" style="text-decoration:none;">Mastering Kali Linux for Web Penetration Testing</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(52).pdf" style="text-decoration:none;">Linux Apache Web Server Administration </a></b></li>  
                                 
-                                
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(46).pdf" style="text-decoration:none;">Hardening Linux</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(53).pdf" style="text-decoration:none;">Linux Unwired</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(54).pdf" style="text-decoration:none;">Mastering Linux</a></b></li>   
+    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(55).pdf" style="text-decoration:none;">Running Linux</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(56).pdf" style="text-decoration:none;">Fedora Linux</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(57).pdf" style="text-decoration:none;">Linux Routing </a></b></li> 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(58).pdf" style="text-decoration:none;">Linux Pocket Guide</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(59).pdf" style="text-decoration:none;">SUSE Linux</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(60).pdf" style="text-decoration:none;">Integrating Linux and Windows </a></b></li> 
+ 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(61).pdf" style="text-decoration:none;">Linux Networking Clearly Explained</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(62).pdf" style="text-decoration:none;">Linux Networking Cookbook</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(63).pdf" style="text-decoration:none;">Understanding the Linux Kernel </a></b></li> 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(64).pdf" style="text-decoration:none;">Linux Device Drivers</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(65).pdf" style="text-decoration:none;">Linux Network Servers</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(66).pdf" style="text-decoration:none;">Linux + Study Guide </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(67).pdf" style="text-decoration:none;">Linux: The Complete Reference</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(68).pdf" style="text-decoration:none;">Linux Unleashed </a></b></li>  
+ 
+ 
+ 
+ 
+ 
 </ul>
