@@ -90,6 +90,22 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(67).pdf" style="text-decoration:none;">Linux: The Complete Reference</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(68).pdf" style="text-decoration:none;">Linux Unleashed </a></b></li>  
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(69).pdf" style="text-decoration:none;">Beginning Linux Programming</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(70).pdf" style="text-decoration:none;">C programming in Linux</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(71).pdf" style="text-decoration:none;">Linux Administration Handbook </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(72).pdf" style="text-decoration:none;">Linux Cluster Architecture</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(73).pdf" style="text-decoration:none;">Linux for Dummies</a></b></li>   
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(75).pdf" style="text-decoration:none;">Linux Shell Scripting with Bash</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(76).pdf" style="text-decoration:none;">The Linux Programmer's Toolbox</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(77).pdf" style="text-decoration:none;">SUSE Linux 10 For Dummies  </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(78).pdf" style="text-decoration:none;">Securing Step by Step Linux </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(79).pdf" style="text-decoration:none;">Linux Smart Homes for Dummies</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/What-is-Linux-and-why-is-it-so-popular/blob/master/linux(80).pdf" style="text-decoration:none;">Advanced Linux 3D Graphics Programming </a></b></li>
+
+ 
+ 
+ 
  
  
  
