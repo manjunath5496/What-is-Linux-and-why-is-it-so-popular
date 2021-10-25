@@ -1,6 +1,6 @@
 <p>"Linux has definitely made a lot of sense even in a&nbsp;<strong>purely materialistic sense</strong>. ―&nbsp;<a href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank" rel="nofollow noopener"><strong>Linus Torvalds</strong></a></p>
 
-<img src="1.jpg" alt="Linus Torvalds">
+<img src="1.jpg" alt="Linus Torvalds" width="500" height="600">
 
 
 
