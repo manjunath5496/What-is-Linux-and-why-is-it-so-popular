@@ -1,4 +1,12 @@
 <p>"Linux has definitely made a lot of sense even in a&nbsp;<strong>purely materialistic sense</strong>. ―&nbsp;<a href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank" rel="nofollow noopener"><strong>Linus Torvalds</strong></a></p>
+
+<img src="1.jpg" alt="Linus Torvalds">
+
+
+
+
+
+
 <p><strong>Introduction</strong></p>
 <hr>
 <p>Every desktop computer uses an operating system. The most popular operating systems in use today are:&nbsp;<a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank" rel="nofollow noopener">Windows</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Macintosh_operating_systems" target="_blank" rel="nofollow noopener">Mac OS</a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="nofollow noopener"><strong>LINUX</strong></a>. Linux is the best-known notoriously reliable and highly secure open source portable&nbsp;<a href="https://en.wikipedia.org/wiki/Operating_system" target="_blank" rel="nofollow noopener">operating system</a>&nbsp;-- very much like&nbsp;<a href="https://en.wikipedia.org/wiki/Unix" target="_blank" rel="nofollow noopener">UNIX</a>&nbsp;-- that has become very popular over the last several years -- created as a task done for pleasure by Linus Torvalds --&nbsp;<a href="https://en.wikipedia.org/wiki/Computer_science" target="_blank" rel="nofollow noopener">computer science</a>&nbsp;student at the University of&nbsp;<a href="https://en.wikipedia.org/wiki/Helsinki" target="_blank" rel="nofollow noopener">Helsinki</a>&nbsp;in&nbsp;<a href="https://en.wikipedia.org/wiki/Finland" target="_blank" rel="nofollow noopener">Finland</a>&nbsp;-- in the early 1990s and later developed by more than a thousand people around the world.</p>
